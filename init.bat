@@ -1,0 +1,2 @@
+IF NOT EXIST "C:\TEMP"  
+
